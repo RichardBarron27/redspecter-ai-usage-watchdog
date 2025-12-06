@@ -91,7 +91,7 @@ Features:
 - Keyboard controls
 
 
-![Screenshot 2025-12-06 104039](https://github.com/user-attachments/assets/7d522867-35d5-4a0c-be3d-dda1c1289450)
+https://github.com/user-attachments/assets/f8326e38-b900-4e8d-8e4f-1ddf0e91981b
 
 
 A real-time terminal dashboard to view AI usage events:
