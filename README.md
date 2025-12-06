@@ -114,8 +114,14 @@ Always authorized. Always ethical.
 Red Specter defends by thinking like an attacker.
 
 ❤️ Support Red Specter
+---
 
-If you find this useful and want to support future releases:
+## ⭐ Support & Contribute
+
+If you find this project useful, please consider:
+
+- ⭐ Starring the repository — it helps others discover the project
+- 🐛 Reporting issues and ideas via GitHub Issues
 
 👉 PayPal: https://paypal.me/richardbarron1747
 
