@@ -83,6 +83,61 @@ Privacy posture:
 ❌ No file/document contents
 
 ✔ Only metadata
+### 🔍 Live TUI Dashboard (v0.2)
+
+A real-time terminal dashboard to view AI usage events:
+
+```bash
+cd tools
+./watchdog_dashboard.py
+Features:
+
+Auto-refreshing view (every 3s)
+
+Risk-based color coding (🟩 LOW / 🟨 MED / 🟥 HIGH)
+
+Keyboard controls:
+• q → quit
+• r → refresh immediately
+
+This provides a quick SOC-style view into AI usage on the endpoint.
+
+
+---
+
+👆 That’s it.  
+Small, professional, discoverable.
+
+Later, when we capture a screenshot, we’ll drop it right below as:
+
+Preview
+( screenshot image )
+
+yaml
+Copy code
+
+---
+
+### Paste Checklist ✔
+- [x] Insert under “Usage” or “Tools”
+- [x] Keep emojis if you like — adds clarity
+- [x] No edits needed — already formatted for GitHub Markdown
+
+---
+
+Whenever you’re ready, we move to:
+🔹 Stats bar  
+or  
+🔹 Logfile flag support
+
+Which one do you want next?  
+Reply: **Stats** or **Flag** ⚔️👁‍🗨
+
+
+
+
+
+
 
 🧭 Roadmap
 Version	Goal	Status
