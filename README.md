@@ -112,14 +112,6 @@ Later, when we capture a screenshot, we’ll drop it right below as:
 
 
 
----
-
-### Paste Checklist ✔
-- [x] Insert under “Usage” or “Tools”
-- [x] Keep emojis if you like — adds clarity
-- [x] No edits needed — already formatted for GitHub Markdown
-
-
 
 
 🧭 Roadmap
