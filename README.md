@@ -91,7 +91,8 @@ Features:
 - Keyboard controls
 
 
-Images
+![AI Usage Watchdog Screenshot](images/ai_watchdog_dashboard.jpg)
+
 
 
 
