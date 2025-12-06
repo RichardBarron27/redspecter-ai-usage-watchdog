@@ -15,8 +15,6 @@ Part of the Red Specter Purple Team AI Defense Suite
 
 ---
 
----
-
 ## 🔍 Description
 
 AI Usage Watchdog is a lightweight **Linux-first endpoint agent** that detects and logs AI / LLM usage on the host in a **privacy-preserving** manner.
